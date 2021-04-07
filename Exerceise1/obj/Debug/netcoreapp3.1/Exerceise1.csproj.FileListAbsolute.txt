@@ -1,0 +1,13 @@
+E:\GrandCircus\C#\Exerceise1\Exerceise1\bin\Debug\netcoreapp3.1\Exerceise1.exe
+E:\GrandCircus\C#\Exerceise1\Exerceise1\bin\Debug\netcoreapp3.1\Exerceise1.deps.json
+E:\GrandCircus\C#\Exerceise1\Exerceise1\bin\Debug\netcoreapp3.1\Exerceise1.runtimeconfig.json
+E:\GrandCircus\C#\Exerceise1\Exerceise1\bin\Debug\netcoreapp3.1\Exerceise1.runtimeconfig.dev.json
+E:\GrandCircus\C#\Exerceise1\Exerceise1\bin\Debug\netcoreapp3.1\Exerceise1.dll
+E:\GrandCircus\C#\Exerceise1\Exerceise1\bin\Debug\netcoreapp3.1\Exerceise1.pdb
+E:\GrandCircus\C#\Exerceise1\Exerceise1\obj\Debug\netcoreapp3.1\Exerceise1.csprojAssemblyReference.cache
+E:\GrandCircus\C#\Exerceise1\Exerceise1\obj\Debug\netcoreapp3.1\Exerceise1.AssemblyInfoInputs.cache
+E:\GrandCircus\C#\Exerceise1\Exerceise1\obj\Debug\netcoreapp3.1\Exerceise1.AssemblyInfo.cs
+E:\GrandCircus\C#\Exerceise1\Exerceise1\obj\Debug\netcoreapp3.1\Exerceise1.csproj.CoreCompileInputs.cache
+E:\GrandCircus\C#\Exerceise1\Exerceise1\obj\Debug\netcoreapp3.1\Exerceise1.dll
+E:\GrandCircus\C#\Exerceise1\Exerceise1\obj\Debug\netcoreapp3.1\Exerceise1.pdb
+E:\GrandCircus\C#\Exerceise1\Exerceise1\obj\Debug\netcoreapp3.1\Exerceise1.genruntimeconfig.cache
